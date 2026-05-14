@@ -70,4 +70,4 @@ ros2 run catch_them_all controller_node
 ---
 
 ## 👤 Author
-**Parsa Farsani** — [@PYF07](https://github.com/PYF07)
+**Parsa Yadollahi** — [@PYF07](https://github.com/PYF07)
